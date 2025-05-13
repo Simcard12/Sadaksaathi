@@ -1,11 +1,11 @@
-# SadakSaathi - Road Safety Object Detection
+# SadakSaathi - Road Safety AI assistant
 
 ## Project Overview
 SadakSaathi is a comprehensive object detection system designed for road safety applications. The project uses state-of-the-art YOLO (You Only Look Once) models to detect and classify various road objects such as cars, pedestrians, cyclists, and more from the KITTI dataset.
 
 ## Dataset
 link for the dataset : https://www.kaggle.com/datasets/klemenko/kitti-dataset
-The project uses the KITTI dataset, which contains images of road scenes with annotations for various objects:
+,The project uses the KITTI dataset, which contains images of road scenes with annotations for various objects:
 - Total training images: 5,984
 - Total validation images: 1,497
 
